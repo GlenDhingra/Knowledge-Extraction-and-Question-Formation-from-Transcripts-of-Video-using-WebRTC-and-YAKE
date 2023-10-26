@@ -1,6 +1,6 @@
 # Knowledge Extraction and Question Formation from Transcripts of Video
 
-![Project Image](/images/Image1.jpeg)
+![Project Image](Images/Image1.JPG)
 
 ## Project Overview
 
