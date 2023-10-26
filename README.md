@@ -36,7 +36,17 @@ The text processing server plays a crucial role in this project. It performs ext
 
 ## Getting Started
 
-Here you can provide instructions for others to run or test your project. Include any dependencies, installation commands, or steps to get the project up and running.
+Make sure you have node and npm installed.
+
+Open new terminal and navigate to the Web_Application directory.
+
+Run the following commands:
+1. npm init
+(keep pressing Enter)
+2. npm install
+3. npm start
+
+Then go the "localhost:3030" on your browser.
 
 ## Implementation and Results
 
