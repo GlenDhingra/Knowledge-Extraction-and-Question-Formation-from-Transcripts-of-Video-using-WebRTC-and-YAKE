@@ -40,13 +40,11 @@ Here you can provide instructions for others to run or test your project. Includ
 
 ## Implementation and Results
 
-![Implementation Image 1](/images/implementation1.png)
+![Implementation Image 1](Images/Image2.JPG)
 
-![Implementation Image 2](/images/implementation2.png)
+![Implementation Image 2](Images/Image3.JPG)
 
-![Results Image 1](/images/results1.png)
-
-![Results Image 2](/images/results2.png)
+![Results Image 1](Images/Image4.JPG)
 
 ## Contributing
 
