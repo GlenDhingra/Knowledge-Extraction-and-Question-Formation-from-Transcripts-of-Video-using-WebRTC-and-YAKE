@@ -50,7 +50,7 @@ Here you can provide instructions for others to run or test your project. Includ
 
 ## Contributing
 
-If you are interested in contributing to this project, we welcome your input. Here's how you can get involved:
+If you are interested in contributing to this project, I welcome your input. Here's how you can get involved:
 
 1. **Fork the Repository:** Create your own copy of the project by forking it.
 
@@ -60,12 +60,11 @@ If you are interested in contributing to this project, we welcome your input. He
 
 ## Contact
 
-If you have questions, suggestions, or would like to collaborate on this project, please feel free to reach out to us:
+If you have questions, suggestions, or would like to collaborate on this project, please feel free to reach out to me:
 
-- Email: projectteam@example.com
-- Issue Tracker: [GitHub Issues](https://github.com/your-username/project-repo/issues)
+- Email: glendhingra27@gmail.com
 
-We are dedicated to advancing knowledge extraction and question formation from video transcripts and value your support and contributions.
+I am dedicated to advancing knowledge extraction and question formation from video transcripts and value your support and contributions.
 
 ---
 
